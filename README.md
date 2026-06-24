@@ -1,6 +1,4 @@
-# UART Transmitter using Verilog HDL
-
-## Overview
+# RTL Design and Simulation of a UART Transmitter Using Verilog HDL
 
 This project implements a **UART (Universal Asynchronous Receiver Transmitter) Transmitter** using Verilog HDL. The transmitter converts 8-bit parallel data into a serial data stream according to the UART communication protocol. The design generates a start bit, serially transmits the data bits, appends a stop bit, and indicates the completion of transmission through a status signal.
 
@@ -318,19 +316,6 @@ Observed behavior:
 
 ---
 
-## Verification Summary
-
-| Feature                      | Status   |
-| ---------------------------- | -------- |
-| Idle State                   | Verified |
-| Start Bit Generation         | Verified |
-| Serial Data Transmission     | Verified |
-| Stop Bit Generation          | Verified |
-| Transmission Complete Signal | Verified |
-| Multiple Frame Transmission  | Verified |
-
----
-
 ## Applications
 
 UART communication is widely used in:
@@ -382,9 +367,6 @@ UART-Transmitter/
 
 ## Author
 
-**Farhana N S**
-
-Electronics Engineering Student
-
+**N S Farhana**
+Electronics and Communication Engineering Student
 Verilog HDL | FPGA Design | Digital Electronics | VLSI Enthusiast
-
