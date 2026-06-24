@@ -354,11 +354,3 @@ UART-Transmitter/
 ├── waveform.png
 └── README.md
 ```
-
----
-
-## Author
-
-**N S Farhana**
-Electronics and Communication Engineering Student
-Verilog HDL | FPGA Design | Digital Electronics | VLSI Enthusiast
