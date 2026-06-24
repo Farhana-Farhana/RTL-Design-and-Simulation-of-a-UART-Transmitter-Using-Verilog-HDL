@@ -19,14 +19,6 @@ The design was developed and simulated using **Xilinx Vivado**.
 
 ---
 
-## Tools Used
-
-* Verilog HDL
-* Xilinx Vivado
-* Behavioral Simulation
-
----
-
 ## UART Frame Structure
 
 A UART frame consists of:
